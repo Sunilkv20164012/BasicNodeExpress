@@ -1,0 +1,16 @@
+body {
+  min-height: 700px;
+  padding: 70px 10px;
+}
+#code-screen{
+  height:700px;
+}
+.textContainer{
+  height : 500px;
+}
+.CodeMirror { height: 100%; }
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
